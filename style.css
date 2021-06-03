@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: bisque;
 }
 
 #marqueeStyle {
@@ -9,10 +10,9 @@ body {
 
 #contact {
     text-align: center;
+    background-color: bisque;
 }
 
-#video iframe{
-    text-align:center;
+#video iframe {
+    text-align: center;
 }
-
-
